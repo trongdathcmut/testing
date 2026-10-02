@@ -77,18 +77,6 @@ Sau đó tiếp tục:
 
 ---
 
-## Chạy bằng file `.bat`
-
-Trên Windows có thể nhấp đúp:
-
-```text
-run_windows.bat
-```
-
-để tự động tạo môi trường, cài thư viện và chạy chương trình.
-
----
-
 ## Nếu cổng 8000 đang được sử dụng
 
 Chạy:
