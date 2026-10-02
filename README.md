@@ -1,4 +1,4 @@
-# RIS / STAR-RIS Interactive Lab
+# RIS / STAR-RIS 
 
 ## Chạy trên Windows / VS Code
 
